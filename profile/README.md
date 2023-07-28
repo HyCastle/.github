@@ -16,8 +16,7 @@ Le Bot de Niveaux permet aux utilisateurs de gagner de l'expérience en particip
 
 Commandes du Bot de Niveaux :
 
-- `!niveau` : Affiche votre niveau actuel et l'expérience restante pour atteindre le niveau suivant.
-- `!classement` : Affiche le classement des 10 meilleurs utilisateurs selon leur niveau.
+- no updated
 
 ### Bot de Gestion de Tickets
 
@@ -30,5 +29,4 @@ Le Bot de Gestion de Tickets facilite le support et la communication avec les mo
 
 Commandes du Bot de Gestion de Tickets :
 
-- `!ouvrir_ticket [description]` : Ouvre un nouveau ticket avec la description fournie.
-- `!fermer_ticket [numéro_ticket]` : Ferme un ticket spécifique.
+- no updated
