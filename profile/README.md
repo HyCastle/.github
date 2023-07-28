@@ -1,6 +1,5 @@
 # HyCaste - Bot Discord pour la Communauté Hypixel FR
 
-![Logo HyCaste](lien_vers_votre_logo.png) (Remplacez `lien_vers_votre_logo.png` par le lien vers le logo du bot si vous en avez un)
 
 HyCaste est un bot Discord spécialement conçu pour servir la communauté francophone de Hypixel, le célèbre serveur Minecraft. Ce bot propose diverses fonctionnalités utiles pour les joueurs, les administrateurs et les modérateurs afin d'améliorer l'expérience de jeu et faciliter la gestion du serveur Discord.
 
@@ -8,7 +7,6 @@ HyCaste est un bot Discord spécialement conçu pour servir la communauté franc
 
 ### Bot de Niveaux
 
-![Bot de Niveaux](lien_vers_image_niveaux.png) (Remplacez `lien_vers_image_niveaux.png` par le lien vers une image illustrant le bot de niveaux)
 
 Le Bot de Niveaux permet aux utilisateurs de gagner de l'expérience en participant activement sur le serveur. Il attribue des niveaux en fonction du temps passé à discuter et à interagir avec les autres membres. Les fonctionnalités incluent :
 
@@ -23,7 +21,6 @@ Commandes du Bot de Niveaux :
 
 ### Bot de Gestion de Tickets
 
-![Bot de Gestion de Tickets](lien_vers_image_tickets.png) (Remplacez `lien_vers_image_tickets.png` par le lien vers une image illustrant le bot de gestion de tickets)
 
 Le Bot de Gestion de Tickets facilite le support et la communication avec les modérateurs et les administrateurs du serveur. Les utilisateurs peuvent ouvrir des tickets pour signaler des problèmes ou demander de l'aide. Les fonctionnalités incluent :
 
