@@ -1,7 +1,7 @@
-# HyCaste - Bot Discord pour la Communauté Hypixel FR
+# HyCastle - Bot Discord pour la Communauté Hypixel FR
 
 
-HyCaste est un bot Discord spécialement conçu pour servir la communauté francophone de Hypixel, le célèbre serveur Minecraft. Ce bot propose diverses fonctionnalités utiles pour les joueurs, les administrateurs et les modérateurs afin d'améliorer l'expérience de jeu et faciliter la gestion du serveur Discord.
+HyCastle est un bot Discord spécialement conçu pour servir la communauté francophone de Hypixel, le célèbre serveur Minecraft. Ce bot propose diverses fonctionnalités utiles pour les joueurs, les administrateurs et les modérateurs afin d'améliorer l'expérience de jeu et faciliter la gestion du serveur Discord.
 
 ## Fonctionnalités
 
